@@ -1,7 +1,7 @@
 # mySQLDemo
 This code and tutorial (javaSQL.pdf) is part of the Java course taught through Computer Careers,  South Central College in North Mankato 56003 USA.
 
-This tutorial demonstrates the most common SQL statements using Java.
+<strong>This tutorial demonstrates the most common SQL statements using Java.</strong>
 
 You will learn how to:
 <ul>
