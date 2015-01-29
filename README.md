@@ -4,18 +4,22 @@ This code and tutorial (javaSQL.pdf) is part of the Java course taught through C
 This tutorial demonstrates the most common SQL statements using Java.
 
 You will learn how to:
-• CREATE TABLE - Create an new, empty table.
-• INSERT a new record of data into a table.
-• SELECT a set of data from a table.
-• UPDATE any record in a table.
-• DELETE a record from a table.
-• DROP (delete) a table.
+<ul>
+<li>CREATE TABLE - Create an new, empty table</li>
+<li>INSERT a new record of data into a table</li>
+<li>SELECT a set of data from a table</li>
+<li>UPDATE any record in a table</li>
+<li>DELETE a record from a table</li>
+<li>DROP (delete) a table</li>
+</ul>
 
 These make up the most common SQL functions summarized with the acronym, CRUD:
-• Create - INSERT
-• Read - SELECT
-• Update - UPDATE
-• Delete - DELETE
+<ul>
+<li>Create - INSERT</li>
+<li>Read - SELECT</li>
+<li>Update - UPDATE</li>
+<li>Delete - DELETE</li>
+</ul>
 
 You’ll also become familiar with some of the Java methods from the DriveManager and Statement classes that allow you to do the heavy lifting.
 
